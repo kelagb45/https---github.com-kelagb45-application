@@ -2,7 +2,7 @@ import React from 'react'
 import './header.css'
 import HeaderSocial from './HeaderSocial'
 import CTA from './CTA'
-import me from './../../assets/ima.png'
+import me from './../../assets/hi.png'
 function Header() {
   return (
     <header>
