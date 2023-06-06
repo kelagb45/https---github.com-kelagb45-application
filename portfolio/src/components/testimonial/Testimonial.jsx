@@ -1,9 +1,9 @@
 import React from "react";
-import "./testimonials.css";
-import AVTR1 from "../../assets/Avatar 1.jpg";
-import AVTR2 from "../../assets/Avatar 2.jpg";
-import AVTR3 from "../../assets/Avatar 3.jpg";
-import AVTR4 from "../../assets/Avatar 4.png";
+import "./testimonial.css";
+import AVTR1 from "../../assets/ash.jpg";
+import AVTR2 from "../../assets/ima.png";
+import AVTR3 from "../../assets/image.jpg";
+import AVTR4 from "../../assets/keli.jpg";
 
 // import Swiper core and required modules
 import { Navigation } from "swiper";
@@ -19,7 +19,7 @@ const data = [
     avatar: AVTR1,
     name: "Kessy Durky",
     review:
-      "I was so happy with the photos that HarryShots took of my wedding. He captured the day perfectly and I will cherish him forever.",
+      "I was so happy with the photos that kelly took of my wedding. He captured the day perfectly and I will cherish him forever.",
   },
   {
     avatar: AVTR2,
@@ -31,7 +31,7 @@ const data = [
     avatar: AVTR3,
     name: "Malando Tina",
     review:
-      "I was very happy with the work that HarryShots did on my website. He was able to take my vision and turn it into a reality. The website is exactly what I wanted and it looks great. I would definitely recommend HarryShots to anyone who is looking for a web developer.",
+      "I was very happy with the work that kelly did on my website. He was able to take my vision and turn it into a reality. The website is exactly what I wanted and it looks great. I would definitely recommend HarryShots to anyone who is looking for a web developer.",
   },
   {
     avatar: AVTR4,
