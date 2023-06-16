@@ -11,27 +11,27 @@ import AVTR4 from "../../assets/keli.jpg";
 const data = [
   {
     avatar: AVTR1,
-    name: "Kessy Durky",
+    name: "Ekema Ashley",
     review:
-      "I was so happy with the photos that kelly took of my wedding. He captured the day perfectly and I will cherish him forever.",
+      "I was so happy with the photos that kelly took of my wedding. she captured the day perfectly and I will cherish him forever.",
   },
   {
     avatar: AVTR2,
     name: "Brenda",
     review:
-      "HarryShots is a true artist. He has a great eye for composition and lighting, and he knows how to capture the beauty in every moment.",
+      "kelly is a true artist. He has a great eye for composition and lighting, and she knows how to capture the beauty in every moment.",
   },
   {
     avatar: AVTR3,
     name: "Malando Tina",
     review:
-      "I was very happy with the work that kelly did on my website. He was able to take my vision and turn it into a reality. The website is exactly what I wanted and it looks great. I would definitely recommend HarryShots to anyone who is looking for a web developer.",
+      "I was very happy with the work that kelly did on my website. she was able to take my vision and turn it into a reality. The website is exactly what I wanted and it looks great. I would definitely recommend HarryShots to anyone who is looking for a web developer.",
   },
   {
     avatar: AVTR4,
     name: "Makoun Glory",
     review:
-      "Harry was very easy to work with. He was always responsive to my feedback and he was always willing to make changes to the content until I was happy with the results.",
+      "kelly was very easy to work with. He was always responsive to my feedback and she was always willing to make changes to the content until I was happy with the results.",
   },
 ];
  
