@@ -1,4 +1,6 @@
-import React from 'react'
+import React, { useEffect, useState} from 'react'
+import axios from 'axios'
+
 import './portfolio.css'
 import IMG1 from '../../assets/piv.webp'
 import IMG2 from '../../assets/pik.webp'
@@ -6,6 +8,8 @@ import IMG3 from '../../assets/pivdn.webp'
 import IMG4 from '../../assets/pivg.webp'
 import IMG5 from '../../assets/port.webp'
 import IMG6 from '../../assets/pg.webp'
+
+
 
 const data = [
   {
