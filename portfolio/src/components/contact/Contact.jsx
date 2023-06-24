@@ -13,7 +13,7 @@ const Contact = () => {
       "service_9xdvogf",
       "template_7fr9d98",
       form.current,
-      "service_9xdvogf"
+      "NAOi4lPLhPf2NFyLN"
     );
     e.target.reset()
         
